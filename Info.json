@@ -1,0 +1,8 @@
+{
+  "Name": "ItemNeverDecrease",
+  "DisplayName": "Item Never Decrease (Mobile)",
+  "Desc": "All items become infinite. Using an item does not reduce quantity.",
+  "Author": "FLXYM",
+  "UIPackage": null,
+  "Dependencies": null
+}
