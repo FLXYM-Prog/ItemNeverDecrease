@@ -1,0 +1,8 @@
+<Defs>
+    <ItemOverride>
+        <ApplyToAll>true</ApplyToAll>
+        <NeverConsume>true</NeverConsume>
+        <NeverReduce>true</NeverReduce>
+        <ConsumptionMultiplier>0</ConsumptionMultiplier>
+    </ItemOverride>
+</Defs>
